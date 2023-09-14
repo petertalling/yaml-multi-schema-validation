@@ -1,3 +1,9 @@
 person:
   name:
     first_name: Stig
+    last_name: Karlsson
+    age: 25
+    class: "programming"
+    start_year: 2023
+    hobbies:
+      - carpentry
