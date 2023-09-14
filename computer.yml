@@ -2,12 +2,12 @@ computer:
   cpu:
     cores: 8
     manufacturer: "intel"
-    frequency: "3.5GHz"
+    frequency: 3.5
   memory:
     manufacturer: "amd"
-    size: "16gb"
+    size: 16
     type: "kjkflds"
   disk:
     manufacturer: "amd"
-    size: "500GB"
+    size: 500GB
     type: "flash"
