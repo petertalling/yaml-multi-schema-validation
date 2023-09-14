@@ -1,5 +1,5 @@
 schedule:
-  year: 2023
+  year: "2023"
   program: java
   lessons:
     - date: "2022-02-01"
