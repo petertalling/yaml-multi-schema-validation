@@ -1,2 +1,7 @@
 car:
   manufacturer: volvo
+  model: xc90
+  year: 2023
+  attributes:
+    -Blue
+  reg: 123abc
