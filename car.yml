@@ -1,7 +1,7 @@
 car:
   manufacturer: volvo
   model: xc90
-  year: 2023
+  year: "2023"
   attributes:
-    -Blue
+    - [blue]
   reg: 123abc
