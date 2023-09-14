@@ -3,5 +3,5 @@ car:
   model: xc90
   year: "2023"
   attributes:
-    - [blue]
+    - blue
   reg: 123abc
