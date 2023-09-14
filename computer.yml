@@ -9,5 +9,5 @@ computer:
     type: "kjkflds"
   disk:
     manufacturer: "amd"
-    size: 500GB
+    size: 500
     type: "flash"
